@@ -1,0 +1,13 @@
+nav >ul >li{
+        display: inline;
+        margin: 20px;
+}
+a:hover{
+    text-decoration: none;
+    background-color: lightgray;
+}
+footer{text-align: center;}
+figure >img{
+    width: 385px;
+    height: 300;
+}
